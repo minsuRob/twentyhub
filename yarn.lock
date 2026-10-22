@@ -85,7 +85,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@ai-sdk/provider-utils@npm:3.0.9, @ai-sdk/provider-utils@npm:^3.0.9":
+"@ai-sdk/provider-utils@npm:3.0.9":
   version: 3.0.9
   resolution: "@ai-sdk/provider-utils@npm:3.0.9"
   dependencies:
@@ -95,6 +95,20 @@ __metadata:
   peerDependencies:
     zod: ^3.25.76 || ^4
   checksum: 10c0/f8b659343d7e22ae099f7b6fc514591c0408012eb0aa00f7a912798b6d7d7305cafa8f18a07c7adec0bb5d39d9b6256b76d65c5393c3fc843d1361c52f1f8080
+  languageName: node
+  linkType: hard
+
+"@ai-sdk/provider-utils@npm:^3.0.9":
+  version: 3.0.42
+  resolution: "@ai-sdk/provider-utils@npm:3.0.42"
+  dependencies:
+    "@ai-sdk/provider": "npm:2.0.5"
+    "@standard-schema/spec": "npm:^1.0.0"
+    eventsource-parser: "npm:^3.0.6"
+    undici: "npm:^5.29.0"
+  peerDependencies:
+    zod: ^3.25.76 || ^4.1.8
+  checksum: 10c0/64fda9435a0e6290f5ccdb4c48bc8612105560ae4083f8bc33cf9d8c644b0c21fe72071c42420ec8684b68805f21d7837645f1b4471d2292e478ab7352d85204
   languageName: node
   linkType: hard
 
@@ -113,6 +127,15 @@ __metadata:
   dependencies:
     json-schema: "npm:^0.4.0"
   checksum: 10c0/3ec560c5b03401a1e3b8c73875f4258cb815668367157a3caa4d30f580ff5adffbba54ee52f875161c986c5225a88cb3829f050437e0a2d7e5820b72cf08238b
+  languageName: node
+  linkType: hard
+
+"@ai-sdk/provider@npm:2.0.5":
+  version: 2.0.5
+  resolution: "@ai-sdk/provider@npm:2.0.5"
+  dependencies:
+    json-schema: "npm:^0.4.0"
+  checksum: 10c0/9c02beda91331779f58f6090b15101090005d317f4ddb41a18912fbd4cb0c840a864bf1b5a3e3d8e24b7c0c662f4c21e02ab577423a75a3298bcc5cc0d329906
   languageName: node
   linkType: hard
 
@@ -58535,7 +58558,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici@npm:^5.18.0":
+"undici@npm:^5.18.0, undici@npm:^5.29.0":
   version: 5.29.0
   resolution: "undici@npm:5.29.0"
   dependencies:
