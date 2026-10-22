@@ -24387,12 +24387,12 @@ __metadata:
   linkType: hard
 
 "@types/inquirer@npm:^9.0.0, @types/inquirer@npm:^9.0.9":
-  version: 9.0.9
-  resolution: "@types/inquirer@npm:9.0.9"
+  version: 9.0.10
+  resolution: "@types/inquirer@npm:9.0.10"
   dependencies:
     "@types/through": "npm:*"
     rxjs: "npm:^7.2.0"
-  checksum: 10c0/235a02a3afa5b238ca9093ef7064e17d763ba134b1afd5a263ffc363ccdb6d1f7d64aa3866ca93e7ad52be4ff21324368a983d20d35caf21c16475cfb32db8c8
+  checksum: 10c0/60381c394f83d3233aea45af106d0c05e34344f2b765c048d32214726f79174eeb42b160bf602c9d9c1258bd263fbd14e384a8b4b07813662b525fe56f95b7c1
   languageName: node
   linkType: hard
 
