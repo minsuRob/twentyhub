@@ -10518,8 +10518,8 @@ __metadata:
   linkType: hard
 
 "@keystatic/next@npm:^5.0.3":
-  version: 5.0.3
-  resolution: "@keystatic/next@npm:5.0.3"
+  version: 5.0.5
+  resolution: "@keystatic/next@npm:5.0.5"
   dependencies:
     "@babel/runtime": "npm:^7.18.3"
     "@types/react": "npm:^19.0.8"
@@ -10530,7 +10530,7 @@ __metadata:
     next: ">=14"
     react: ^18.2.0 || ^19.0.0
     react-dom: ^18.2.0 || ^19.0.0
-  checksum: 10c0/5b6f101c8400efc1bd8a5753285842447f4f867950f64f8af0457f6dffc6abf92287ecdcf2f618039def64a2679b7843f5786743a20a7dde9131b6975795cab7
+  checksum: 10c0/f37b5d1087a9ff6ec6364b9dab5f85a5df487efabb36af18e1e26eee1daefbcb55e7a3cc5d8b49562143ae8174626daa92df203c5c3a4050bc006c5159e489ab
   languageName: node
   linkType: hard
 
