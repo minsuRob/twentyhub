@@ -4434,19 +4434,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@clickhouse/client-common@npm:1.11.0":
-  version: 1.11.0
-  resolution: "@clickhouse/client-common@npm:1.11.0"
-  checksum: 10c0/84a74458acdf279bc4e844c235d0f658cb77f82e90f19fa285481c31f2f17210a5e801a61f080d6dfd100d970bc4e15a5692d2b7fd067502fbaad99d0dc51310
-  languageName: node
-  linkType: hard
-
 "@clickhouse/client@npm:^1.11.0":
-  version: 1.11.0
-  resolution: "@clickhouse/client@npm:1.11.0"
-  dependencies:
-    "@clickhouse/client-common": "npm:1.11.0"
-  checksum: 10c0/8557de33dd9c88d2813d563f89b49e666dc2d8166c9131e9727f6935db8dc65428927b4b4ab20b1bc7646b9c38c1eb8d1e372ba483b0b2bb69d64ed89488dec2
+  version: 1.24.1
+  resolution: "@clickhouse/client@npm:1.24.1"
+  checksum: 10c0/9275737c997b7882b58a2e4d1167fc5c81ff904a3fb5fefcf29ed93495e8b9c95f2b998f1b06edb578cdd01e2526d7df3fa5862f646c637b86de997ee202b26b
   languageName: node
   linkType: hard
 
