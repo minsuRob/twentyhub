@@ -10835,8 +10835,8 @@ __metadata:
   linkType: hard
 
 "@lingui/swc-plugin@npm:^5.6.0":
-  version: 5.6.0
-  resolution: "@lingui/swc-plugin@npm:5.6.0"
+  version: 5.11.0
+  resolution: "@lingui/swc-plugin@npm:5.11.0"
   peerDependencies:
     "@lingui/core": 5
   peerDependenciesMeta:
@@ -10844,7 +10844,7 @@ __metadata:
       optional: true
     next:
       optional: true
-  checksum: 10c0/8bbb08100da2fc1316e663a35c4abd32e36c804cb977b54466dc2ac84749810d2cdd546e7144e8b811e9b9518a05f6d4cc0fc033b6ca4e2b17bc5ddecaff8eb3
+  checksum: 10c0/ead7b28763fd1e92e1f198d04ac438c7c02d3dae851febd779ebc2bd355b28bd2ef1be8cd118425a6bf05b92928bb76957806a952c444cecaadc2601544bbf8f
   languageName: node
   linkType: hard
 
