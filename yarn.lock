@@ -10950,8 +10950,8 @@ __metadata:
   linkType: hard
 
 "@markdoc/markdoc@npm:^0.5.1":
-  version: 0.5.1
-  resolution: "@markdoc/markdoc@npm:0.5.1"
+  version: 0.5.10
+  resolution: "@markdoc/markdoc@npm:0.5.10"
   dependencies:
     "@types/linkify-it": "npm:^3.0.1"
     "@types/markdown-it": "npm:12.2.3"
@@ -10968,7 +10968,7 @@ __metadata:
       optional: true
     react:
       optional: true
-  checksum: 10c0/cbbfa2454f730316007517cf948023612b876a77bfd62ddb396df95bcf16aafec1d93bc9fc5d9cec3267b3eb4693777783b164baa0d6174dc3f4cf062544cd0a
+  checksum: 10c0/e3528930bb3d08e8016e2b8394e077ea472214afb817d6be9ddc41f13069e02782a7cfb0136a214cacd3ead4c6133d3616c38b10107873d56ce790e89ee1defb
   languageName: node
   linkType: hard
 
