@@ -44513,12 +44513,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"marked@npm:*, marked@npm:^17.0.1":
-  version: 17.0.1
-  resolution: "marked@npm:17.0.1"
+"marked@npm:*":
+  version: 18.1.1
+  resolution: "marked@npm:18.1.1"
   bin:
     marked: bin/marked.js
-  checksum: 10c0/0197337aad33882308cea52d2c86d7b830a89be729a4010a26a488ae1c224cdc7520b8cce056832a81a127fc39a3827f45e3865c1ff257324cb553cb06ce0e57
+  checksum: 10c0/650d37ef22d39cc28e9afb194517dc7a23baa7c93971ccd518583907ac9b61ce90affb654e0f37b1505f7809988b6c35e45fbb8023bc03a33104bcdfe26324b1
   languageName: node
   linkType: hard
 
@@ -44537,6 +44537,15 @@ __metadata:
   bin:
     marked: bin/marked.js
   checksum: 10c0/7f5993bfb2d260806ffada81051c45952857117cba0fd82790779dc696c7ebd35a96be47409b4bdabd75e7ede286f5f5142a75a47200e3fa54eaf8b0cd6f74f6
+  languageName: node
+  linkType: hard
+
+"marked@npm:^17.0.1":
+  version: 17.0.6
+  resolution: "marked@npm:17.0.6"
+  bin:
+    marked: bin/marked.js
+  checksum: 10c0/77961fbb360511d6638491e097cb15b1ef5e643f27c25b9cd52aa3cd92e216fc3cda7dbfc6a10adb7922d1b38df132510df65de4afe6c53c7280772c9d4221bd
   languageName: node
   linkType: hard
 
