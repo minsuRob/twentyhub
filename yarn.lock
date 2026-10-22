@@ -49801,9 +49801,9 @@ __metadata:
   linkType: hard
 
 "postal-mime@npm:^2.6.1":
-  version: 2.6.1
-  resolution: "postal-mime@npm:2.6.1"
-  checksum: 10c0/60818f46612aef7f276034466bebe1fa9209b815fe7a70facbbe023c8d79dc75315f2d372c44f36e73faefb685b7541b45c1403c5dc9cb8c039bf50fdcd1e56d
+  version: 2.7.6
+  resolution: "postal-mime@npm:2.7.6"
+  checksum: 10c0/7932b9b5c82e9d3f25607d9f07eba92414b42a304592f8cd03f9df058311af8d5df091ea8ef05ce5f20f052cbd858bdda8df0903d547a54953814ca57a68df03
   languageName: node
   linkType: hard
 
