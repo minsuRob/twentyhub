@@ -61,14 +61,14 @@ __metadata:
   linkType: hard
 
 "@ai-sdk/openai@npm:^2.0.30":
-  version: 2.0.30
-  resolution: "@ai-sdk/openai@npm:2.0.30"
+  version: 2.0.136
+  resolution: "@ai-sdk/openai@npm:2.0.136"
   dependencies:
-    "@ai-sdk/provider": "npm:2.0.0"
-    "@ai-sdk/provider-utils": "npm:3.0.9"
+    "@ai-sdk/provider": "npm:2.0.5"
+    "@ai-sdk/provider-utils": "npm:3.0.42"
   peerDependencies:
-    zod: ^3.25.76 || ^4
-  checksum: 10c0/90a57c1b10dac46c0bbe7e16cf9202557fb250d9f0e94a2a5fb7d95b5ea77815a56add78b00238d3823f0313c9b2c42abe865478d28a6196f72b341d32dd40af
+    zod: ^3.25.76 || ^4.1.8
+  checksum: 10c0/03e10241fe59cb65bb99e9952a11d642aeda79cb6506fb6e32a7ae037fec7dbb15ebdb00124d60f06a6fe8da28066d1a40c5f65950ae98f3aa06880615ba429e
   languageName: node
   linkType: hard
 
@@ -82,6 +82,20 @@ __metadata:
   peerDependencies:
     zod: ^3.25.76 || ^4.1.8
   checksum: 10c0/bbc92b088e76a1e98d28f8c20d02b899eb7ba23e8ba575c05383fcaf9c50e98e20ffa5a0a94a935cc1b2fee61c2411cc41de11a2a625b4c1647659603f91c29d
+  languageName: node
+  linkType: hard
+
+"@ai-sdk/provider-utils@npm:3.0.42":
+  version: 3.0.42
+  resolution: "@ai-sdk/provider-utils@npm:3.0.42"
+  dependencies:
+    "@ai-sdk/provider": "npm:2.0.5"
+    "@standard-schema/spec": "npm:^1.0.0"
+    eventsource-parser: "npm:^3.0.6"
+    undici: "npm:^5.29.0"
+  peerDependencies:
+    zod: ^3.25.76 || ^4.1.8
+  checksum: 10c0/64fda9435a0e6290f5ccdb4c48bc8612105560ae4083f8bc33cf9d8c644b0c21fe72071c42420ec8684b68805f21d7837645f1b4471d2292e478ab7352d85204
   languageName: node
   linkType: hard
 
@@ -113,6 +127,15 @@ __metadata:
   dependencies:
     json-schema: "npm:^0.4.0"
   checksum: 10c0/3ec560c5b03401a1e3b8c73875f4258cb815668367157a3caa4d30f580ff5adffbba54ee52f875161c986c5225a88cb3829f050437e0a2d7e5820b72cf08238b
+  languageName: node
+  linkType: hard
+
+"@ai-sdk/provider@npm:2.0.5":
+  version: 2.0.5
+  resolution: "@ai-sdk/provider@npm:2.0.5"
+  dependencies:
+    json-schema: "npm:^0.4.0"
+  checksum: 10c0/9c02beda91331779f58f6090b15101090005d317f4ddb41a18912fbd4cb0c840a864bf1b5a3e3d8e24b7c0c662f4c21e02ab577423a75a3298bcc5cc0d329906
   languageName: node
   linkType: hard
 
@@ -58535,7 +58558,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"undici@npm:^5.18.0":
+"undici@npm:^5.18.0, undici@npm:^5.29.0":
   version: 5.29.0
   resolution: "undici@npm:5.29.0"
   dependencies:
