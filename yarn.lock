@@ -22188,14 +22188,12 @@ __metadata:
   linkType: hard
 
 "@storybook-community/storybook-addon-cookie@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "@storybook-community/storybook-addon-cookie@npm:5.0.0"
-  dependencies:
-    "@storybook/icons": "npm:^1.4.0"
+  version: 5.0.1
+  resolution: "@storybook-community/storybook-addon-cookie@npm:5.0.1"
   peerDependencies:
     "@storybook/addon-docs": ^10.0.0
     storybook: ^10.0.0
-  checksum: 10c0/5a89081a81daacc2b9a86f0d0ce32072c76504043d39216385e451442a0abaf5ef820cfb1252adc28fbb44a44c60f3a68a4b0ab93b027c1950cce6cdec35edab
+  checksum: 10c0/df33807278ed13ac1c936ab252de62e17d725bff3144e12da6b3fa22829ac894b6c6d1f2fc92fd18b48e3cfc7687dffe2bfae48b7f04194d42d6aa2828fcb17c
   languageName: node
   linkType: hard
 
@@ -22298,16 +22296,6 @@ __metadata:
   version: 5.0.0
   resolution: "@storybook/global@npm:5.0.0"
   checksum: 10c0/8f1b61dcdd3a89584540896e659af2ecc700bc740c16909a7be24ac19127ea213324de144a141f7caf8affaed017d064fea0618d453afbe027cf60f54b4a6d0b
-  languageName: node
-  linkType: hard
-
-"@storybook/icons@npm:^1.4.0":
-  version: 1.6.0
-  resolution: "@storybook/icons@npm:1.6.0"
-  peerDependencies:
-    react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta
-    react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0-beta
-  checksum: 10c0/bbec9201a78a730195f9cf377b15856dc414a54d04e30d16c379d062425cc617bfd0d6586ba1716012cfbdab461f0c9693a6a52920f9bd09c7b4291fb116f59c
   languageName: node
   linkType: hard
 
